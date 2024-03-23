@@ -1,6 +1,6 @@
 // server.js
 import express from 'express';
-import fetch from 'node-fetch'; // Make sure to use an appropriate version or method for ESM
+import fetch from 'node-fetch';
 const app = express();
 const PORT = 3000;
 
@@ -10,7 +10,7 @@ app.use(express.static('public'));
 // Middleware to parse JSON bodies
 app.use(express.json());
 
-const API_KEY = '840cf5e060864315956a46fc8c886a7f'; // Use your actual API key
+const API_KEY = '840cf5e060864315956a46fc8c886a7f';
 const BASE_URL = 'https://holidays.abstractapi.com/v1/';
 
 app.post('/getHolidays', async (req, res) => {
