@@ -1,6 +1,6 @@
-# Holiday Finder Web Application
+# HOLIDAY FINDER WEB APPLICATION
 
-## Introduction
+## INTRODUCTION
 
 The Holidays App is a comprehensive solution designed to help users explore holidays and festivals around the globe. By integrating a sleek frontend with a robust backend, the app provides a seamless experience for discovering cultural events based on dates and countries. This project leverages the Abstract Holidays API for data and is built with modern web technologies.
 
