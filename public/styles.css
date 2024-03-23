@@ -1,0 +1,9 @@
+.text-xl {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5rem;
+  font-weight: normal; /* Most script fonts look better without bold */
+  color: #8efa29; /* A vibrant blue, adjust as needed */
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+  text-align: center;
+  margin-bottom: 1rem;
+}
