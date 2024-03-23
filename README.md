@@ -68,3 +68,21 @@ Distributed under the MIT License. See LICENSE for more information.
 - [Google Fonts](https://fonts.google.com/) for the beautiful typography.
   
 
+
+
+# **A Couple Snapshots Of The Application:**
+
+![image](https://github.com/sureshravuris/Holiday_Finder/assets/143477571/95c1ea59-5e6c-455f-85a0-747641dd2354)
+![image](https://github.com/sureshravuris/Holiday_Finder/assets/143477571/472f2600-df5b-49fc-8002-ea5652a87a38)
+![image](https://github.com/sureshravuris/Holiday_Finder/assets/143477571/273aea18-158a-4de9-8f6f-c7b774e0b1a1)
+![image](https://github.com/sureshravuris/Holiday_Finder/assets/143477571/29267ba1-b96b-4bb2-902c-8582cebcbbdc)
+![image](https://github.com/sureshravuris/Holiday_Finder/assets/143477571/7cbe4645-04ef-4a2b-9606-2ac3afb87cc9)
+![image](https://github.com/sureshravuris/Holiday_Finder/assets/143477571/7de27fe8-4ee3-40d2-af60-3cb56c807107)
+![image](https://github.com/sureshravuris/Holiday_Finder/assets/143477571/ce24089d-1054-42f2-9fd4-f0cd9b9aa3e8)
+
+
+
+
+
+
+
