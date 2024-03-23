@@ -38,6 +38,33 @@ The Holidays App is a comprehensive solution designed to help users explore holi
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourusername/holiday_finder.git
-   cd holidays-app
+   https://github.com/sureshravuris/Holiday_Finder.git
+   cd Holiday_Finder
+
+2. **Install backend dependencies**
+   
+   Navigate to the root directory of your project and run:
+   ```sh
+   npm install
+3. **Set up the environment variables**
+
+   Create a .env file in the root directory and add your AbstractAPI key:
+   ```sh
+   API_KEY=your_840cf5e060864315956a46fc8c886a7f
+4. **Start the Server**
+
+   By default, the server will run on http://localhost:3000.
+   ```sh
+   npm start
+
+## **License**
+Distributed under the MIT License. See LICENSE for more information.
+
+## **Acknowledgments**
+- [AbstractAPI Holidays API](https://www.abstractapi.com/api/holidays-api) for providing the data used in this app.
+
+- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework.
+
+- [Google Fonts](https://fonts.google.com/) for the beautiful typography.
+  
 
